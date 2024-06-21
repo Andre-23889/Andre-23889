@@ -1,12 +1,11 @@
-👋 Hi, I’m @Andre-23889, please call me Andrea.
+ Hi👋 please call me Andrea.
 
-👀 I’m interested in web app projects to collaborate on.
-  I hope to get into a training internship or apprenticeship for front-end developers,
-  remotely or to Italian companies.
+i'm a student and a junior FrontEnd web developer.
+I'm specializing in development with React and Node.js
 
-🌱 I’m currently learning
-  front-end design. I have learned these technologies so far
-  react, git, sass and typescript
+I hope to participate in fruitful collaborations with you. Developing websites, web apps and packages together
+
+🌱
 
 📫 How to reach me
   here, or via mail: andreamail.2308@gmail.com
