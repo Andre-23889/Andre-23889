@@ -5,7 +5,7 @@
 
   <div style=" background-color: white; color: #232325">
     <p>please contact me:<p>
-    <p>email:<a href="mailto:andreamail.2308@gmail.com">andreamail.2308@gmail.com</a></br>
+    <p>email: <a href="mailto:andreamail.2308@gmail.com">andreamail.2308@gmail.com</a></br>
       linkedIn: <a href="https://www.linkedin.com/in/andrea-webdv/">Andrea Audisio</a>
     </p>
   </div>
